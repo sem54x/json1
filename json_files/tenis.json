@@ -1,0 +1,214 @@
+[
+    {
+        "time": "02:00",
+        "teams": "C.Osorio - O.Gadecki",
+        "league": "WTA Guadalajara Yarı Final",
+        "date": "2024/09/15",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "04:00",
+        "teams": "M.Frech - C.Garcia",
+        "league": "WTA Guadalajara Yarı Final",
+        "date": "2024/09/15",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "10:30",
+        "teams": "Avusturya - Türkiye",
+        "league": "Davis Cup",
+        "date": "2024/09/14",
+        "channels": [
+            "S Sport Plus",
+            "TRT Spor Yildiz",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Avustralya - İspanya",
+        "league": "Davis Cup",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "İtalya - Hollanda",
+        "league": "Davis Cup",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Martin/Fallada - Pons/Sanchez",
+        "league": "Premier Padel",
+        "date": "2024/09/15",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect",
+            "Red Bull TV"
+        ]
+    },
+    {
+        "time": "17:30",
+        "teams": "Coello/Tapia - Chingotto/Galan",
+        "league": "Premier Padel",
+        "date": "2024/09/15",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect",
+            "Red Bull TV"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Sonay Kartal - R.Sramkova",
+        "league": "WTA Monastir Final",
+        "date": "2024/09/15",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect",
+            "Red Bull TV"
+        ]
+    },
+    {
+        "time": "02:30",
+        "teams": "M.Frech - O.Gadecki",
+        "league": "WTA Guadalajara Final",
+        "date": "2024/09/16",
+        "channels": [
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV",
+            "Red Bull TV"
+        ]
+    },
+    {
+        "time": "06:00",
+        "teams": "E.Ruse - Y.Yuan",
+        "league": "WTA Seul",
+        "date": "2024/09/16",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect",
+            "Red Bull TV"
+        ]
+    },
+    {
+        "time": "08:00",
+        "teams": "Çeyrek Final Maç 1",
+        "league": "ATP Chengdu Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "08:30",
+        "teams": "Çeyrek Final Maç 1",
+        "league": "ATP Hangzhou Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "09:30",
+        "teams": "Çeyrek Final Maç 2",
+        "league": "ATP Chengdu Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "10:00",
+        "teams": "Çeyrek Final Maç 2",
+        "league": "ATP Hangzhou Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "11:00",
+        "teams": "Çeyrek Final Maç 3",
+        "league": "ATP Chengdu Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "11:30",
+        "teams": "Çeyrek Final Maç 3",
+        "league": "ATP Hangzhou Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "12:30",
+        "teams": "Çeyrek Final Maç 4",
+        "league": "ATP Chengdu Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Çeyrek Final Maç 4",
+        "league": "ATP Hangzhou Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Yarı Final Maç 1",
+        "league": "ATP Chengdu Yarı Final",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "12:30",
+        "teams": "Yarı Final Maç 1",
+        "league": "ATP Hangzhou Yarı Final",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Yarı Final Maç 2",
+        "league": "ATP Chengdu Yarı Final",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Yarı Final Maç 2",
+        "league": "ATP Hangzhou Yarı Final",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    }
+]

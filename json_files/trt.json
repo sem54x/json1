@@ -1,0 +1,813 @@
+[
+    {
+        "time": "01:00",
+        "teams": "Avrupa Stüdyosu Gece",
+        "league": "Futbol Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "07:00",
+        "teams": "Sabah Haber Bülteni",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "07:00",
+        "teams": "İlk Baskı",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "08:55",
+        "teams": "Spor Takvimi",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "09:15",
+        "teams": "Belçika Pro Lig",
+        "league": "Maç Özetleri",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "09:40",
+        "teams": "Portekiz Süper Lig",
+        "league": "Maç Özetleri",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "10:00",
+        "teams": "Sabah Spor Bülteni",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "11:00",
+        "teams": "Spor Manşet",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "12:20",
+        "teams": "Trendyol Süper Lig",
+        "league": "Goller",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "12:30",
+        "teams": "Öğlen Haber Bülteni",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "12:30",
+        "teams": "TRT Gün Ortası",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "13:30",
+        "teams": "UEFA Şampiyonlar Ligi",
+        "league": "Maç Özetleri",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Spor Stüdyosu",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "15:45",
+        "teams": "Avrupadan Futbol",
+        "league": "Futbol Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Gündem Futbol",
+        "league": "Futbol Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "17:30",
+        "teams": "Dünyadan Spor",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Spor Merkezi",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Avrupa Stüdyosu",
+        "league": "Futbol Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Bologna - Shakhtar Donetsk",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT 1",
+            "CBC Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Spor Akşamı",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "21:50",
+        "teams": "İtalya Serie A",
+        "league": "Goller",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Aktüel Futbol",
+        "league": "Futbol Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Club Brugge - B.Dortmund",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT 1"
+        ]
+    },
+    {
+        "time": "07:00",
+        "teams": "İlk Baskı",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "09:15",
+        "teams": "Trendyol Süper Lig",
+        "league": "Goller",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "09:25",
+        "teams": "Trendyol 1'inci Lig",
+        "league": "Goller",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "09:35",
+        "teams": "Hollanda Eredivisie",
+        "league": "Goller",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "09:45",
+        "teams": "Avrupadan Futbol",
+        "league": "Futbol Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "10:00",
+        "teams": "Sabah Spor Bülteni",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "11:00",
+        "teams": "Spor Manşet",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "12:30",
+        "teams": "TRT Gün Ortası",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "13:30",
+        "teams": "UEFA Şampiyonlar Ligi",
+        "league": "Maç Özetleri",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Spor Stüdyosu",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Gündem Futbol Transfer",
+        "league": "Futbol Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "17:30",
+        "teams": "Dünyadan Spor",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Spor Merkezi",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Avrupa Stüdyosu",
+        "league": "Futbol Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Dakika Skor",
+        "league": "Futbol Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Kizilyildiz - Benfica",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT 1",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Stadyum",
+        "league": "Futbol Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Monaco - Barcelona",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT 1",
+            "CBC Sport",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "23:30",
+        "teams": "Teknik Analiz",
+        "league": "Futbol Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "01:00",
+        "teams": "Avrupa Stüdyosu Gece",
+        "league": "Futbol Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "07:00",
+        "teams": "İlk Baskı",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "08:55",
+        "teams": "Spor Takvimi",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "09:15",
+        "teams": "UEFA Şampiyonlar Ligi",
+        "league": "Maç Özetleri",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "09:45",
+        "teams": "Trendyol Süper Lig",
+        "league": "Goller",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "10:00",
+        "teams": "Sabah Spor Bülteni",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "11:00",
+        "teams": "Spor Manşet",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "TRT Gün Ortası",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Muhabir Saati",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Keçiören Bld - Beşiktaş",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Spor Stüdyosu",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Galatasaray Daikin - Zeren Spor",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Gündem Futbol",
+        "league": "Futbol Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "17:30",
+        "teams": "Dünyadan Spor",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Esenler Erokspor - Çayırova Bld.",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Spor Merkezi",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Nilüfer Bld. - Aydın BB",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Manisa FK - Y.Malatyaspor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Gece Spor Bülteni",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "23:00",
+        "teams": "İleri Üçlü",
+        "league": "Futbol Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "01:00",
+        "teams": "Spor Artı",
+        "league": "Spor Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Sarıyer Bld. - Galatasaray Daikin",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/21",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Pendikspor - Gençlerbirliği",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Bahçelievler Bld. - Nilüfer Bld.",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/21",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Aras Kargo - Keçiören Bld",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/21",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Ankaragücü - Sakaryaspor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Beşiktaş - Aras Kargo",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/22",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "15:30",
+        "teams": "Zeren Spor - Sarıyer Bld.",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/22",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Keçiörengücü - Iğdırspor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Aydın BB - Bahçelievler Bld.",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/22",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Çorum FK - Kocaelispor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Bandırma Bordo - Balıkesir BB",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/23",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Şanlıurfaspor - Fatih Karagümrük",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/23",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Türk Telekom - BC Lietkabelis",
+        "league": "Eurocup",
+        "date": "2024/09/24",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "BC Wolves - Bahçeşehir Klj",
+        "league": "Eurocup",
+        "date": "2024/09/25",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Beşiktaş Fibabanka - Buducnost",
+        "league": "Eurocup",
+        "date": "2024/09/25",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Spor Toto SK - Rize Bld",
+        "league": "Hentbol Erkekler Süper Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Iğdırspor - Erzurumspor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/27",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Bandırmaspor - Ankaragücü",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Boluspor - Manisa FK",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Y.Malatyaspor - Amedspor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Sakaryaspor - Ümraniyespor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Kocaelispor - Şanlıurfaspor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/30",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Bahçeşehir Klj - Beşiktaş Fibabanka",
+        "league": "Eurocup",
+        "date": "2024/10/01",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Aris - Türk Telekom",
+        "league": "Eurocup",
+        "date": "2024/10/02",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    }
+]

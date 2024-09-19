@@ -1,0 +1,32 @@
+[
+    {
+        "time": "22:00",
+        "teams": "Milan - Liverpool",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "CBC Sport",
+            "tabii Spor 1"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Liverpool - Bournemouth",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Wolverhampton - Liverpool",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    }
+]

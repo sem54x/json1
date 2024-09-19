@@ -1,0 +1,389 @@
+[
+    {
+        "time": "00:00",
+        "teams": "Takım Oyunu Gece",
+        "league": "Futbol Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "08:00",
+        "teams": "Sabah Sporu",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "11:00",
+        "teams": "Spor Ajansı",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Gün Ortası",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Spor Gündemi",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Ana Haber",
+        "league": "Spor Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "90'a",
+        "league": "Futbol Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "23:00",
+        "teams": "Son Sayfa",
+        "league": "Futbol Programı",
+        "date": "2024/09/18",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "08:00",
+        "teams": "Sabah Sporu",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "11:00",
+        "teams": "Spor Ajansı",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Gün Ortası",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Spor Gündemi",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Ana Haber",
+        "league": "Spor Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Galatasaray - Slavia Prag",
+        "league": "UEFA Kadınlar Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Skorbord",
+        "league": "Futbol Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "90+1",
+        "league": "Futbol Programı",
+        "date": "2024/09/19",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "00:00",
+        "teams": "Takım Oyunu Gece",
+        "league": "Futbol Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "08:00",
+        "teams": "Sabah Sporu",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "11:00",
+        "teams": "Spor Ajansı",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Gün Ortası",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Spor Gündemi",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Ana Haber",
+        "league": "Spor Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Artı Futbol",
+        "league": "Futbol Programı",
+        "date": "2024/09/20",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "00:00",
+        "teams": "Son Sayfa Gece",
+        "league": "Futbol Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "08:00",
+        "teams": "Sabah Sporu",
+        "league": "Spor Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Yaşasın Hafta Sonu",
+        "league": "Spor Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Derbi Günü",
+        "league": "Futbol Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Derbiye Doğru",
+        "league": "Futbol Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Takım Oyunu",
+        "league": "Futbol Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Skorbord",
+        "league": "Futbol Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "20:45",
+        "teams": "Devre Arası",
+        "league": "Futbol Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Skorboard",
+        "league": "Futbol Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "90+1",
+        "league": "Futbol Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "00:00",
+        "teams": "Takım Oyunu Gece",
+        "league": "Futbol Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "08:00",
+        "teams": "Sabah Sporu",
+        "league": "Spor Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Yaşasın Hafta Sonu",
+        "league": "Spor Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Spor Gündemi",
+        "league": "Spor Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Maç Günü",
+        "league": "Futbol Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Skorbord",
+        "league": "Futbol Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "20:45",
+        "teams": "Devre Arası",
+        "league": "Futbol Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Skorboard",
+        "league": "Futbol Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "90+1",
+        "league": "Futbol Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "A Spor"
+        ]
+    },
+    {
+        "time": "00:00",
+        "teams": "Takım Oyunu Gece",
+        "league": "Futbol Programı",
+        "date": "2024/09/23",
+        "channels": [
+            "A Spor"
+        ]
+    }
+]

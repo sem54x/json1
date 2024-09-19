@@ -1,0 +1,41 @@
+[
+    {
+        "time": "22:00",
+        "teams": "Real Madrid - Stuttgart",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Real Madrid - Espanyol",
+        "league": "İspanya La Liga",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Real Madrid - Alaves",
+        "league": "İspanya La Liga",
+        "date": "2024/09/24",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Atletico Madrid - Real Madrid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    }
+]

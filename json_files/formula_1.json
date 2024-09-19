@@ -1,0 +1,52 @@
+[
+    {
+        "time": "12:30",
+        "teams": "Antrenman Turları - 1",
+        "league": "Formula 1 Singapur GP",
+        "date": "2024/09/20",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Antrenman Turları - 2",
+        "league": "Formula 1 Singapur GP",
+        "date": "2024/09/20",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "12:30",
+        "teams": "Antrenman Turları - 3",
+        "league": "Formula 1 Singapur GP",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Sıralama Turları",
+        "league": "Formula 1 Singapur GP",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Singapur GP",
+        "league": "Formula 1",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    }
+]

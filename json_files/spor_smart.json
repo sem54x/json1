@@ -1,0 +1,112 @@
+[
+    {
+        "time": "13:00",
+        "teams": "Ulsan - Kawasaki Frontale",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Shanghai Port - Johor Darul",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Bangkok Utd - Tampines",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "Smart Spor 2",
+            "Spor Smart 2"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "ATK Mohun Bagan - Ravshan",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Al Wakra - Tractor Sazi",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Al Ahli Dubai - Al Hussein",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "Smart Spor 2",
+            "Spor Smart 2"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Al Quwa Al Jawiya - Altyn Asyr",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Hiroshima - Kaya FC",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Sydney - Eastern AA",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "Smart Spor 2",
+            "Spor Smart 2"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Lion City - Zhejiang Professional",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Cebu - Jeonbuk",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "Smart Spor 2",
+            "Spor Smart 2"
+        ]
+    }
+]

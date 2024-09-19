@@ -1,0 +1,130 @@
+[
+    {
+        "time": "20:00",
+        "teams": "Beşiktaş - Basket Landes",
+        "league": "Euroleague Kadınlar",
+        "date": "2024/09/18",
+        "channels": [
+            "EuroLeague Women Youtube"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Keçiören Bld - Beşiktaş",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Beşiktaş - Malatyaspor",
+        "league": "TFF Elit U19 Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "Beşiktaş Youtube"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Trabzon BB - Beşiktaş",
+        "league": "Hentbol Erkekler Süper Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "THF TV Youtube"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Beşiktaş - Aras Kargo",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/22",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Ankara BB - Beşiktaş",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Beşiktaş - Eyüpspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:30",
+        "teams": "Basket Landes - Beşiktaş",
+        "league": "Euroleague Kadınlar",
+        "date": "2024/09/24",
+        "channels": [
+            "EuroLeague Women Youtube"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Beşiktaş - Ç.Rizespor",
+        "league": "TFF Elit U19 Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "Beşiktaş Youtube"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Beşiktaş Fibabanka - Buducnost",
+        "league": "Eurocup",
+        "date": "2024/09/25",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Ajax - Beşiktaş",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Beşiktaş - Çekmeköy Bilgidoğa",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/29",
+        "channels": [
+            "Beşiktaş Youtube"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Kayserispor - Beşiktaş",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/30",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Bahçeşehir Klj - Beşiktaş Fibabanka",
+        "league": "Eurocup",
+        "date": "2024/10/01",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    }
+]

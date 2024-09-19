@@ -1,0 +1,281 @@
+[
+    {
+        "time": "15:00",
+        "teams": "Gün 3",
+        "league": "Snooker İngiltere Açık",
+        "date": "2024/09/18",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Etap 1",
+        "league": "Lüksemburg Bisiklet Turu",
+        "date": "2024/09/18",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "17:50",
+        "teams": "Belçika",
+        "league": "Wallonia Bisiklet GP",
+        "date": "2024/09/18",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Gün 3 Akşam",
+        "league": "Snooker İngiltere Açık",
+        "date": "2024/09/18",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Gün 4",
+        "league": "Snooker İngiltere Açık",
+        "date": "2024/09/19",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "15:50",
+        "teams": "Etap 2",
+        "league": "Lüksemburg Bisiklet Turu",
+        "date": "2024/09/19",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Gün 4 Akşam",
+        "league": "Snooker İngiltere Açık",
+        "date": "2024/09/19",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Maç 1",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/20",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Maç 2",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/20",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "16:40",
+        "teams": "Etap 3",
+        "league": "Lüksemburg Bisiklet Turu",
+        "date": "2024/09/20",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Çeyrek Final",
+        "league": "Snooker İngiltere Açık",
+        "date": "2024/09/20",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Maç 3",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/20",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "20:45",
+        "teams": "Çeyrek Finaller",
+        "league": "Snooker İngiltere Açık",
+        "date": "2024/09/20",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Maç 4",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/20",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "12:45",
+        "teams": "Kadınlar",
+        "league": "BMX Avrupa Şampiyonası",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Maç 1",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "15:45",
+        "teams": "Etap 4",
+        "league": "Lüksemburg Bisiklet Turu",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Maç 2",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "17:20",
+        "teams": "Erkekler",
+        "league": "BMX Avrupa Şampiyonası",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "İsviçre",
+        "league": "Dünya Paralimpik Şampiyonası",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Yarı Final",
+        "league": "Snooker İngiltere Açık",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Maç 3",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "20:45",
+        "teams": "Yarı Finaller",
+        "league": "Snooker İngiltere Açık",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Maç 4",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/21",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "10:00",
+        "teams": "Çin",
+        "league": "Teqball Dünya Şampiyonası",
+        "date": "2024/09/22",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "İsviçre",
+        "league": "Dünya Paralimpik Şampiyonası",
+        "date": "2024/09/22",
+        "channels": [
+            "Eurosport 2"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Maç 1",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/22",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Maç 2",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/22",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Maç 3",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/22",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Maç 4",
+        "league": "Tenis Laver Cup",
+        "date": "2024/09/22",
+        "channels": [
+            "Eurosport"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Final",
+        "league": "Snooker İngiltere Açık",
+        "date": "2024/09/22",
+        "channels": [
+            "Eurosport"
+        ]
+    }
+]

@@ -1,0 +1,929 @@
+[
+    {
+        "time": "03:30",
+        "teams": "Fortaleza - Corinthians",
+        "league": "Copa Sudamericana Çeyrek Final",
+        "date": "2024/09/18",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Colo Colo - River Plate",
+        "league": "Copa Libertadores Çeyrek Final",
+        "date": "2024/09/18",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Real Betis - Getafe",
+        "league": "İspanya La Liga",
+        "date": "2024/09/18",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "01:00",
+        "teams": "Fluminense - Atletico Mineiro",
+        "league": "Copa Libertadores Çeyrek Final",
+        "date": "2024/09/19",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Lanus - Medellin",
+        "league": "Copa Sudamericana Çeyrek Final",
+        "date": "2024/09/19",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Botafogo RJ - Sao Paulo",
+        "league": "Copa Libertadores Çeyrek Final",
+        "date": "2024/09/19",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Leganes - Athletic Bilbao",
+        "league": "İspanya La Liga",
+        "date": "2024/09/19",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "01:00",
+        "teams": "Flamengo - Penarol",
+        "league": "Copa Libertadores Çeyrek Final",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Libertad - Cruzeiro",
+        "league": "Copa Sudamericana Çeyrek Final",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Atletico PR - Racing Club",
+        "league": "Copa Sudamericana Çeyrek Final",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "J.Al Silawi - O.El Dafrawy",
+        "league": "PFL Dövüş Serisi",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "18:50",
+        "teams": "Al Ahli - Damac",
+        "league": "Suudi Arabistan Pro Lig",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Cagliari - Empoli",
+        "league": "İtalya Serie A",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "C.Walsh - P.Runowski",
+        "league": "UFC Boxing",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Al Ettifaq - Al Nassr",
+        "league": "Suudi Arabistan Pro Lig",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Verona - Torino",
+        "league": "İtalya Serie A",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Alaves - Sevilla",
+        "league": "İspanya La Liga",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "11:40",
+        "teams": "İstanbul",
+        "league": "Bosphorus Cup",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "11:50",
+        "teams": "Sıralama Turları",
+        "league": "MotoGP Emilia-Romagna GP",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "13:30",
+        "teams": "Cumartesi Futbolu",
+        "league": "Futbol Programı",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Valladolid - Real Sociedad",
+        "league": "İspanya La Liga",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Venezia - Genoa",
+        "league": "İtalya Serie A",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Sprint Yarışları",
+        "league": "MotoGP Emilia-Romagna GP",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "17:15",
+        "teams": "Osasuna - Las Palmas",
+        "league": "İspanya La Liga",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "İtalya Yarış 1",
+        "league": "GT4 Europe",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Juventus - Napoli",
+        "league": "İtalya Serie A",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Anadolu Efes - Maccabi Fox",
+        "league": "Pavlos Giannakopoulos Turnuvasi",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Valencia - Girona",
+        "league": "İspanya La Liga",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Glasgow Rangers - Dundee United",
+        "league": "İskoçya Kupasi",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Manchester",
+        "league": "Cage Warriors",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Guimaraes - Porto",
+        "league": "Portekiz Liga NOS",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Aris - Olimpiakos",
+        "league": "Yunanistan Süper Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Lecce - Parma",
+        "league": "İtalya Serie A",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Real Madrid - Espanyol",
+        "league": "İspanya La Liga",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Partizan - Panathinaikos",
+        "league": "Pavlos Giannakopoulos Turnuvasi",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "02:30",
+        "teams": "Bass Pro Shops Night Race",
+        "league": "Nascar",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "08:00",
+        "teams": "Çeyrek Final Maç 1",
+        "league": "ATP Chengdu Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "08:30",
+        "teams": "Çeyrek Final Maç 1",
+        "league": "ATP Hangzhou Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "09:30",
+        "teams": "Çeyrek Final Maç 2",
+        "league": "ATP Chengdu Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "10:00",
+        "teams": "Çeyrek Final Maç 2",
+        "league": "ATP Hangzhou Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "11:00",
+        "teams": "Çeyrek Final Maç 3",
+        "league": "ATP Chengdu Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "11:00",
+        "teams": "Emilia-Romagna GP",
+        "league": "Moto3",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "11:30",
+        "teams": "Çeyrek Final Maç 3",
+        "league": "ATP Hangzhou Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "12:15",
+        "teams": "Emilia-Romagna GP",
+        "league": "Moto2",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "12:30",
+        "teams": "Çeyrek Final Maç 4",
+        "league": "ATP Chengdu Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Çeyrek Final Maç 4",
+        "league": "ATP Hangzhou Çeyrek Final",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "13:30",
+        "teams": "Fiorentina - Lazio",
+        "league": "İtalya Serie A",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "13:35",
+        "teams": "İtalya Yarış 2",
+        "league": "GT4 Europe",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Emilia-Romagna GP",
+        "league": "MotoGP",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Getafe - Leganes",
+        "league": "İspanya La Liga",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Monza - Bologna",
+        "league": "İtalya Serie A",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Celtic - Falkirk",
+        "league": "İskoçya Kupasi",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "17:15",
+        "teams": "Athletic Bilbao - Celta Vigo",
+        "league": "İspanya La Liga",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Roma - Udinese",
+        "league": "İtalya Serie A",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Villarreal - Barcelona",
+        "league": "İspanya La Liga",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "NFL Red Zone",
+        "league": "Spor Programı",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Minnesota Vikings - Houston Texans",
+        "league": "NFL",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Inter - Milan",
+        "league": "İtalya Serie A",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "CBC Sport",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Rayo Vallecano - Atletico Madrid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:30",
+        "teams": "Sporting Lisbon - AVS",
+        "league": "Portekiz Liga NOS",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "23:25",
+        "teams": "Dallas Cowboys - Baltimore Ravens",
+        "league": "NFL",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Yarı Final Maç 1",
+        "league": "ATP Chengdu Yarı Final",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "12:30",
+        "teams": "Yarı Final Maç 1",
+        "league": "ATP Hangzhou Yarı Final",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Yarı Final Maç 2",
+        "league": "ATP Chengdu Yarı Final",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Yarı Final Maç 2",
+        "league": "ATP Hangzhou Yarı Final",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Atalanta - Como",
+        "league": "İtalya Serie A",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Real Betis - Mallorca",
+        "league": "İspanya La Liga",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:15",
+        "teams": "Boavista - Benfica",
+        "league": "Portekiz Liga NOS",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Sevilla - Valladolid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/24",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Valencia - Osasuna",
+        "league": "İspanya La Liga",
+        "date": "2024/09/24",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Real Madrid - Alaves",
+        "league": "İspanya La Liga",
+        "date": "2024/09/24",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Girona - Rayo Vallecano",
+        "league": "İspanya La Liga",
+        "date": "2024/09/25",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Barcelona - Getafe",
+        "league": "İspanya La Liga",
+        "date": "2024/09/25",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Espanyol - Villarreal",
+        "league": "İspanya La Liga",
+        "date": "2024/09/26",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Las Palmas - Real Betis",
+        "league": "İspanya La Liga",
+        "date": "2024/09/26",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Celta Vigo - Atletico Madrid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/26",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Milan - Lecce",
+        "league": "İtalya Serie A",
+        "date": "2024/09/27",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Valladolid - Mallorca",
+        "league": "İspanya La Liga",
+        "date": "2024/09/27",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Getafe - Alaves",
+        "league": "İspanya La Liga",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Udinese - Inter",
+        "league": "İtalya Serie A",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "17:15",
+        "teams": "Rayo Vallecano - Leganes",
+        "league": "İspanya La Liga",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Genoa - Juventus",
+        "league": "İtalya Serie A",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Real Sociedad - Valencia",
+        "league": "İspanya La Liga",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Bologna - Atalanta",
+        "league": "İtalya Serie A",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Osasuna - Barcelona",
+        "league": "İspanya La Liga",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "13:30",
+        "teams": "Torino - Lazio",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Celta Vigo - Girona",
+        "league": "İspanya La Liga",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Roma - Venezia",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Como - Verona",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "17:15",
+        "teams": "Athletic Bilbao - Sevilla",
+        "league": "İspanya La Liga",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Empoli - Fiorentina",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Real Betis - Espanyol",
+        "league": "İspanya La Liga",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Napoli - Monza",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Atletico Madrid - Real Madrid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Parma - Cagliari",
+        "league": "İtalya Serie A",
+        "date": "2024/09/30",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Villarreal - Las Palmas",
+        "league": "İspanya La Liga",
+        "date": "2024/09/30",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    }
+]

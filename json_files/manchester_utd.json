@@ -1,0 +1,41 @@
+[
+    {
+        "time": "22:00",
+        "teams": "Manchester Utd - Barnsley",
+        "league": "İngiltere Lig Kupası",
+        "date": "2024/09/17",
+        "channels": [
+            "TV 8 Buçuk",
+            "Exxen"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Crystal Palace - Manchester Utd",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Manchester Utd - Twente",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "Manchester Utd - Tottenham",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "time": "22:00",
+        "teams": "PSG - Girona",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Telekom Veszprem - PSG",
+        "league": "Hentbol Erkekler Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "EHF TV"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Reims - PSG",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "PSG - Rennes",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/27",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Arsenal - PSG",
+        "league": "UEFA Gençlik Ligi",
+        "date": "2024/10/01",
+        "channels": [
+            "UEFA.tv"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Arsenal - PSG",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/10/01",
+        "channels": [
+            "tabii Spor"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "time": "02:00",
+        "teams": "Washington Mystics - NY Liberty",
+        "league": "WNBA",
+        "date": "2024/09/18",
+        "channels": [
+            "NBA TV"
+        ]
+    },
+    {
+        "time": "05:00",
+        "teams": "Seattle Storm - Las Vegas Aces",
+        "league": "WNBA",
+        "date": "2024/09/18",
+        "channels": [
+            "NBA TV"
+        ]
+    },
+    {
+        "time": "02:00",
+        "teams": "NY Liberty - Atlanta Dream",
+        "league": "WNBA",
+        "date": "2024/09/20",
+        "channels": [
+            "NBA TV"
+        ]
+    }
+]

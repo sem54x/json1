@@ -1,0 +1,22 @@
+[
+    {
+        "time": "19:00",
+        "teams": "Juventus - Napoli",
+        "league": "İtalya Serie A",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Napoli - Monza",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    }
+]

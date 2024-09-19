@@ -1,0 +1,119 @@
+[
+    {
+        "time": "19:00",
+        "teams": "TFSE-MTK - UFAB 49",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/18",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "20:30",
+        "teams": "PAS Giannina - BS Sassari",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/18",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Osnabruck - Bodrum Basket",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/19",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Iraklis Saloniki - Universitatea Cluj",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/19",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "21:30",
+        "teams": "Battipaglia - Baxi Ferrol",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/19",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Türk Telekom - BC Lietkabelis",
+        "league": "Eurocup",
+        "date": "2024/09/24",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "BC Wolves - Bahçeşehir Klj",
+        "league": "Eurocup",
+        "date": "2024/09/25",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Bodrum Basket - Osnabruck",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/25",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Beşiktaş Fibabanka - Buducnost",
+        "league": "Eurocup",
+        "date": "2024/09/25",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "UFAB 49 - TFSE-MTK",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/25",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "21:30",
+        "teams": "BS Sassari - PAS Giannina",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/25",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Universitatea Cluj - Iraklis Saloniki",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/26",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Baxi Ferrol - Battipaglia",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/26",
+        "channels": [
+            "FIBA TV"
+        ]
+    }
+]

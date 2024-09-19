@@ -1,0 +1,41 @@
+[
+    {
+        "time": "17:00",
+        "teams": "Bayern Münih - Dinamo Zagreb",
+        "league": "UEFA Gençlik Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "UEFA.tv"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Bayern Münih - Dinamo Zagreb",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "TRT 1"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Werder Bremen - Bayern Münih",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/21",
+        "channels": [
+            "Tivibu Spor 1",
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Bayern Münih - Bayer Leverkusen",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "time": "22:00",
+        "teams": "Coventry - Tottenham",
+        "league": "İngiltere Lig Kupası",
+        "date": "2024/09/18",
+        "channels": [
+            "TV 8 Buçuk",
+            "Exxen"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Stoke - Hull City",
+        "league": "İngiltere Championship",
+        "date": "2024/09/20",
+        "channels": [
+            "TV 8 Buçuk",
+            "Exxen"
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "time": "14:00",
+        "teams": "Keçiören Bld - Beşiktaş",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Galatasaray Daikin - Zeren Spor",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Nilüfer Bld. - Aydın BB",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Sarıyer Bld. - Galatasaray Daikin",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/21",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Bahçelievler Bld. - Nilüfer Bld.",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/21",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Aras Kargo - Keçiören Bld",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/21",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Beşiktaş - Aras Kargo",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/22",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "15:30",
+        "teams": "Zeren Spor - Sarıyer Bld.",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/22",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Aydın BB - Bahçelievler Bld.",
+        "league": "TVF Kadınlar Kupa Voley",
+        "date": "2024/09/22",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    }
+]

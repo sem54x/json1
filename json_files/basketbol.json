@@ -1,0 +1,544 @@
+[
+    {
+        "time": "14:00",
+        "teams": "Kapaklı Spor - Trabzonspor",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Kırklareli Bld. - Adana Basket",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Tofaş - Alba Berlin",
+        "league": "Gloria Cup Basketbol",
+        "date": "2024/09/15",
+        "channels": [
+            "Tivibu Spor",
+            "Tivibu Spor Youtube"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Gaziantep Basket - iLab Basketbol",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "17:30",
+        "teams": "Anadolu Efes - Zalgiris Kaunas",
+        "league": "Gloria Cup Basketbol",
+        "date": "2024/09/15",
+        "channels": [
+            "Tivibu Spor",
+            "Tivibu Spor Youtube"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Olimpia Milano - Virtus Bologna",
+        "league": "Girit Basketbol Turnuvası 3'üncülük",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "OGM Orman - TED Kolejliler",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Zaragoza - Baskonia",
+        "league": "Hazırlık Maçı",
+        "date": "2024/09/15",
+        "channels": [
+            "Baskonia Youtube"
+        ]
+    },
+    {
+        "time": "20:30",
+        "teams": "Fenerbahçe Beko - Olympiakos",
+        "league": "Girit Basketbol Turnuvası Final",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Indiana Fever - Dallas Wings",
+        "league": "WNBA",
+        "date": "2024/09/15",
+        "channels": [
+            "NBA TV"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Çağdaş Bodrum - Ankaragücü",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/16",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Fenerbahçe Gelişim - Emlak Konut Gelişim",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/16",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "AEK - Fenerbahçe Beko",
+        "league": "Hazırlık Maçı",
+        "date": "2024/09/17",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "CSM Constanta - Zaragoza",
+        "league": "Euroleague Kadınlar",
+        "date": "2024/09/17",
+        "channels": [
+            "EuroLeague Women Youtube"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Galatasaray - Türk Telekom",
+        "league": "Hazırlık Maçı",
+        "date": "2024/09/17",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "20:30",
+        "teams": "Petkimspor - Den Bosch",
+        "league": "FIBA Şampiyonlar Ligi Ön Eleme",
+        "date": "2024/09/17",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "02:00",
+        "teams": "Washington Mystics - NY Liberty",
+        "league": "WNBA",
+        "date": "2024/09/18",
+        "channels": [
+            "NBA TV"
+        ]
+    },
+    {
+        "time": "05:00",
+        "teams": "Seattle Storm - Las Vegas Aces",
+        "league": "WNBA",
+        "date": "2024/09/18",
+        "channels": [
+            "NBA TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Zabiny Brno - Szekszard",
+        "league": "Euroleague Kadınlar",
+        "date": "2024/09/18",
+        "channels": [
+            "EuroLeague Women Youtube"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "TFSE-MTK - UFAB 49",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/18",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Beşiktaş - Basket Landes",
+        "league": "Euroleague Kadınlar",
+        "date": "2024/09/18",
+        "channels": [
+            "EuroLeague Women Youtube"
+        ]
+    },
+    {
+        "time": "20:30",
+        "teams": "PAS Giannina - BS Sassari",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/18",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Galatasaray - Büyükçekmece",
+        "league": "Hazırlık Maçı",
+        "date": "2024/09/19",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Iraklis Saloniki - Universitatea Cluj",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/19",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Osnabruck - Bodrum Basket",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/19",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "21:30",
+        "teams": "Battipaglia - Baxi Ferrol",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/19",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "02:00",
+        "teams": "NY Liberty - Atlanta Dream",
+        "league": "WNBA",
+        "date": "2024/09/20",
+        "channels": [
+            "NBA TV"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Çankaya Üni. - Uludağ Basket",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/20",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Fenerbahçe - Botaş",
+        "league": "Hazırlık Maçı",
+        "date": "2024/09/20",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Esenler Erokspor - Çayırova Bld.",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/20",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "Urla Bld. - Edirne DSİ",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/20",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Fenerbahçe Beko - Manisa BB",
+        "league": "Hazırlık Maçı",
+        "date": "2024/09/20",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "ÇBK Gelişim - Kırklareli Bld.",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "TED Kolejliler - Gaziantep Basket",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Çanakkale Bld. - Gallardo",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Emlak Konut Gelişim - Burhaniye Bld.",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Edremit Bld. - Fenerbahçe Gelişim",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "15:30",
+        "teams": "Final Spor - Fenerbahçe Koleji",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "15:30",
+        "teams": "Adana Basket - Yalova VIP",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Turgutlu Bld. - Mersin Üni.",
+        "league": "Kadınlar Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "iLab Basketbol - Pizza Bulls Basket",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "Ankaragücü - Kapaklı Spor",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Anadolu Efes - Maccabi Fox",
+        "league": "Pavlos Giannakopoulos Turnuvasi",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Partizan - Panathinaikos",
+        "league": "Pavlos Giannakopoulos Turnuvasi",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Karşıyaka Basket Altyapı - OGM Orman",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/22",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Trabzonspor - Harem Spor",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/22",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "17:30",
+        "teams": "Konya BB - Çağdaş Bodrum",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/22",
+        "channels": [
+            "TBF TV Youtube"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Bandırma Bordo - Balıkesir BB",
+        "league": "Basketbol 1. Ligi",
+        "date": "2024/09/23",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Türk Telekom - BC Lietkabelis",
+        "league": "Eurocup",
+        "date": "2024/09/24",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Galatasaray - Panathinaikos",
+        "league": "Hazırlık Maçı",
+        "date": "2024/09/24",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "20:30",
+        "teams": "Basket Landes - Beşiktaş",
+        "league": "Euroleague Kadınlar",
+        "date": "2024/09/24",
+        "channels": [
+            "EuroLeague Women Youtube"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Zaragoza - CSM Constanta",
+        "league": "Euroleague Kadınlar",
+        "date": "2024/09/24",
+        "channels": [
+            "EuroLeague Women Youtube"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Szekszard - Zabiny Brno",
+        "league": "Euroleague Kadınlar",
+        "date": "2024/09/25",
+        "channels": [
+            "EuroLeague Women Youtube"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Bodrum Basket - Osnabruck",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/25",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "BC Wolves - Bahçeşehir Klj",
+        "league": "Eurocup",
+        "date": "2024/09/25",
+        "channels": [
+            "TRT Spor Yildiz"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Beşiktaş Fibabanka - Buducnost",
+        "league": "Eurocup",
+        "date": "2024/09/25",
+        "channels": [
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "UFAB 49 - TFSE-MTK",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/25",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "21:30",
+        "teams": "BS Sassari - PAS Giannina",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/25",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Universitatea Cluj - Iraklis Saloniki",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/26",
+        "channels": [
+            "FIBA TV"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Baxi Ferrol - Battipaglia",
+        "league": "Eurocup Kadınlar",
+        "date": "2024/09/26",
+        "channels": [
+            "FIBA TV"
+        ]
+    }
+]

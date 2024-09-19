@@ -1,0 +1,99 @@
+[
+    {
+        "time": "19:45",
+        "teams": "Bologna - Shakhtar Donetsk",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT 1",
+            "CBC Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Manchester City - Inter",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "CBC Sport",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Feyenoord - Bayer Leverkusen",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "CBC Sport",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Monaco - Barcelona",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT 1",
+            "CBC Sport",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Neftçi Bakü - Shamakhi",
+        "league": "Azerbaycan Premier Ligi",
+        "date": "2024/09/20",
+        "channels": [
+            "CBC Sport"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Neftçi Bakü - Karabağ",
+        "league": "Azerbaycan Premier Ligi",
+        "date": "2024/09/20",
+        "channels": [
+            "CBC Sport"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Turan - Araz",
+        "league": "Azerbaycan Premier Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "CBC Sport"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Sebail - Sabah Bakü",
+        "league": "Azerbaycan Premier Ligi",
+        "date": "2024/09/22",
+        "channels": [
+            "CBC Sport"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Sumqayıt - Zira",
+        "league": "Azerbaycan Premier Ligi",
+        "date": "2024/09/22",
+        "channels": [
+            "CBC Sport"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Inter - Milan",
+        "league": "İtalya Serie A",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "CBC Sport",
+            "S Sport 2"
+        ]
+    }
+]

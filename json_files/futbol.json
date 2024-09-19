@@ -1,0 +1,3081 @@
+[
+    {
+        "time": "00:30",
+        "teams": "Atletico PR - Fortaleza",
+        "league": "Brezilya Serie A",
+        "date": "2024/09/15",
+        "channels": [
+            "Smart Spor 2",
+            "Spor Smart 2"
+        ]
+    },
+    {
+        "time": "02:00",
+        "teams": "Detroit - New Mexico",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "02:00",
+        "teams": "Indy Eleven - El Paso Locomotive",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "02:00",
+        "teams": "Loudoun United - Birmingham Legion",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "02:00",
+        "teams": "Miami FC - Hartford Athletic",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "02:30",
+        "teams": "Tampa Bay Rowdies - Pittsburgh RH",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "03:00",
+        "teams": "Colorado Springs - Charleston",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "03:00",
+        "teams": "Memphis 901 - North Carolina",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "FC Tulsa - Louisville City",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "05:00",
+        "teams": "Oakland Roots - San Antonio",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "05:00",
+        "teams": "Orange County - Rhode Island",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "05:00",
+        "teams": "Sacramento Republic - Phoenix Rising",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "05:30",
+        "teams": "Las Vegas Lights - Monterrey Bay",
+        "league": "ABD USL Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "13:30",
+        "teams": "Genoa - Roma",
+        "league": "İtalya Serie A",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "CBC Sport",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Dundee United - Glasgow Rangers",
+        "league": "İskoçya Premier Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "TRT Spor"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Greuther Fürth - Elversberg",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/15",
+        "channels": [
+            "Tivibu Spor 4",
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Hamburg - Jahn Regensburg",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 5",
+            "Tivibu Spor 3",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Hertha Berlin - Fortuna Düsseldorf",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 2",
+            "Tivibu Spor 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Antwerp - St.Gilloise",
+        "league": "Belçika Pro League",
+        "date": "2024/09/15",
+        "channels": [
+            "TV 8 Buçuk",
+            "Exxen"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Samtredia - Samgurali",
+        "league": "Gürcistan Erovnuli Liga",
+        "date": "2024/09/15",
+        "channels": [
+            "Gürcistan Erovmuli Liga Youtube"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Celta Vigo - Valladolid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "15:30",
+        "teams": "Kelkit Bld. - Etimesgut Bld.",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Tottenham - Arsenal",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 3",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Iğdırspor - Esenler Erokspor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports Max 2",
+            "beIN Sports Tod TV",
+            "tabii Spor 6"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Fatih Karagümrük - Ankaragücü",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Uşakspor - Balıkesirspor",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Bornova FK - Trabzonspor",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Beşiktaş - ALG Spor",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "Beşiktaş Youtube"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Polatlı Bld. - Turgutluspor",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Atalanta - Fiorentina",
+        "league": "İtalya Serie A",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Torino - Lecce",
+        "league": "İtalya Serie A",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Rennes - Montpellier",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/15",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "İskenderunspor - Fethiyespor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Erbaaspor - Beyoğlu Yeni Çarşı",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Augsburg - St.Pauli",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 5",
+            "Tivibu Spor 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Altınordu - Isparta 32 Spor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Altınordu Youtube"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Kayserispor - Eyüpspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Kasımpaşa - Fenerbahçe",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Zira - Neftçi Bakü",
+        "league": "Azerbaycan Premier Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "CBC Sport"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Portsmouth - WBA",
+        "league": "İngiltere Championship",
+        "date": "2024/09/15",
+        "channels": [
+            "TV 8 Buçuk",
+            "Exxen"
+        ]
+    },
+    {
+        "time": "17:15",
+        "teams": "Girona - Barcelona",
+        "league": "İspanya La Liga",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "17:30",
+        "teams": "Porto - Farense",
+        "league": "Portekiz Liga NOS",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "tabii Spor 3"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Nantes - Reims",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/15",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Strasbourg - Angers",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/15",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Toulouse - Le Havre",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/15",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "Wolverhampton - Newcastle",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 3",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "Mainz - Werder Bremen",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 4",
+            "Tivibu Spor 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Gençlerbirliği - Erzurumspor",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports Max 2",
+            "beIN Sports Tod TV",
+            "tabii Spor 6"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Kocaelispor - Manisa FK",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports Max 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Afyonspor - İnegölspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Giresunspor - Vanspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Van Tivi"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Bursaspor - Tokat Plevne",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Karabük İY - Osmaniyespor",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Cagliari - Napoli",
+        "league": "İtalya Serie A",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Dinamo Tiflis - Dila Gori",
+        "league": "Gürcistan Erovnuli Liga",
+        "date": "2024/09/15",
+        "channels": [
+            "Gürcistan Erovmuli Liga Youtube"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "52 Orduspor - Bayburt GÖİ",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Altaş TV Ordu"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Las Palmas - Athletic Bilbao",
+        "league": "İspanya La Liga",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Sabah Bakü - Turan",
+        "league": "Azerbaycan Premier Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "CBC Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Trabzonspor - Beşiktaş",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Alanyaspor - Hatayspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:30",
+        "teams": "PAOK - Panathinaikos",
+        "league": "Yunanistan Süper Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "Exxen"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Al Ittihad - Al Wehda",
+        "league": "Suudi Arabistan Pro Lig",
+        "date": "2024/09/15",
+        "channels": [
+            "tabii Spor 3"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Monza - Inter",
+        "league": "İtalya Serie A",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "CBC Sport",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Lens - Lyon",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/15",
+        "channels": [
+            "Bein Sports 4",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Atletico Madrid - Valencia",
+        "league": "İspanya La Liga",
+        "date": "2024/09/15",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Palmeiras - Criciuma",
+        "league": "Brezilya Serie A",
+        "date": "2024/09/15",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "00:30",
+        "teams": "Flamengo - Vasco Da Gama",
+        "league": "Brezilya Serie A",
+        "date": "2024/09/16",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Galatasaray - Ünye 1957",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/15",
+        "channels": [
+            "GS TV"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Al Shorta - Al Nassr",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/16",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Parma - Udinese",
+        "league": "İtalya Serie A",
+        "date": "2024/09/16",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Adanaspor - Keçiörengücü",
+        "league": "Trendyol 1. Lig",
+        "date": "2024/09/16",
+        "channels": [
+            "TRT Spor",
+            "Bein Sports 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Antalyaspor - Adana Demirspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/16",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Al Ahli - Persepolis",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/16",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Esteghlal FC - Al Gharafa",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/16",
+        "channels": [
+            "Smart Spor 2",
+            "Spor Smart 2"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Lazio - Verona",
+        "league": "İtalya Serie A",
+        "date": "2024/09/16",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Grenoble - Caen",
+        "league": "Fransa Ligue 2",
+        "date": "2024/09/16",
+        "channels": [
+            "Bein Sports 4",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Rayo Vallecano - Osasuna",
+        "league": "İspanya La Liga",
+        "date": "2024/09/16",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Gwangju - Yokohama Marinos",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "13:00",
+        "teams": "Shandong Taishan - CC Mariners",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "Smart Spor 2",
+            "Spor Smart 2"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Juventus - PSV",
+        "league": "UEFA Gençlik Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "UEFA.tv"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Buriram - Vissel Kobe",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Shanghai Shenhua - Pohang",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "Smart Spor 2",
+            "Spor Smart 2"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Bayern Münih - Dinamo Zagreb",
+        "league": "UEFA Gençlik Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "UEFA.tv"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Pakhtakor - Al Wasl",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Al Rayyan - Al Hilal",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "Spor Smart",
+            "Smart Spor HD"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Al Wehdat - Sepahan FC",
+        "league": "AFC Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "Smart Spor 2",
+            "Spor Smart 2"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Juventus - PSV",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Young Boys - Aston Villa",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "TRT 1",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Galatasaray - Gaziantep FK",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/17",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Mallorca - Real Sociedad",
+        "league": "İspanya La Liga",
+        "date": "2024/09/17",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Milan - Liverpool",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Bayern Münih - Dinamo Zagreb",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "TRT 1",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Real Madrid - Stuttgart",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Sporting Lisbon - Lille",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/17",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Colo Colo - River Plate",
+        "league": "Copa Libertadores Çeyrek Final",
+        "date": "2024/09/18",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Fortaleza - Corinthians",
+        "league": "Copa Sudamericana Çeyrek Final",
+        "date": "2024/09/18",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Manchester City - Inter",
+        "league": "UEFA Gençlik Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "UEFA.tv"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Bologna - Shakhtar Donetsk",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT 1",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Sparta Prag - Salzburg",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Samsunspor - Başakşehir",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/18",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Torpedo Kutaisi - Iberia 1999",
+        "league": "Gürcistan Erovnuli Liga",
+        "date": "2024/09/18",
+        "channels": [
+            "Gürcistan Erovmuli Liga Youtube"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Real Betis - Getafe",
+        "league": "İspanya La Liga",
+        "date": "2024/09/18",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Celtic - Slovan Bratislava",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Club Brugge - B.Dortmund",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "TRT 1",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Manchester City - Inter",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "PSG - Girona",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/18",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "01:00",
+        "teams": "Fluminense - Atletico Mineiro",
+        "league": "Copa Libertadores Çeyrek Final",
+        "date": "2024/09/19",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Botafogo RJ - Sao Paulo",
+        "league": "Copa Libertadores Çeyrek Final",
+        "date": "2024/09/19",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Lanus - Medellin",
+        "league": "Copa Sudamericana Çeyrek Final",
+        "date": "2024/09/19",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "04:00",
+        "teams": "New Mexico - Sacramento Republic",
+        "league": "ABD USL Championship",
+        "date": "2024/09/19",
+        "channels": [
+            "USL Championship Youtube"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Monaco - Barcelona",
+        "league": "UEFA Gençlik Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "UEFA.tv"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Galatasaray - Slavia Prag",
+        "league": "UEFA Kadınlar Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "Galatasaray Youtube"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Kizilyildiz - Benfica",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT 1",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Feyenoord - Bayer Leverkusen",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Trabzonspor - Kayserispor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/19",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Leganes - Athletic Bilbao",
+        "league": "İspanya La Liga",
+        "date": "2024/09/19",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Atalanta - Arsenal",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Atletico Madrid - Leipzig",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Brest - Sturm Graz",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Monaco - Barcelona",
+        "league": "UEFA Şampiyonlar Ligi",
+        "date": "2024/09/19",
+        "channels": [
+            "TRT 1",
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "01:00",
+        "teams": "Flamengo - Penarol",
+        "league": "Copa Libertadores Çeyrek Final",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Atletico PR - Racing Club",
+        "league": "Copa Sudamericana Çeyrek Final",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "03:30",
+        "teams": "Libertad - Cruzeiro",
+        "league": "Copa Sudamericana Çeyrek Final",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "18:50",
+        "teams": "Al Ahli - Damac",
+        "league": "Suudi Arabistan Pro Lig",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Paderborn - Hannover 96",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/20",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Schalke 04 - Darmstadt 98",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/20",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Cagliari - Empoli",
+        "league": "İtalya Serie A",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Hatayspor - Bodrumspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/20",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Al Ettifaq - Al Nassr",
+        "league": "Suudi Arabistan Pro Lig",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "21:30",
+        "teams": "Augsburg - Mainz",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/20",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Verona - Torino",
+        "league": "İtalya Serie A",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Nice - St. Etienne",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/20",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Alaves - Sevilla",
+        "league": "İspanya La Liga",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Fenerbahçe - Bodrumspor",
+        "league": "TFF Elit U19 Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "Fenerbahçe Futbol Akademi Youtube"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Beşiktaş - Malatyaspor",
+        "league": "TFF Elit U19 Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "Beşiktaş Youtube"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Galatasaray - Trabzonspor",
+        "league": "TFF Elit U19 Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "Galatasaray Youtube"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Braunschweig - Greuther Fürth",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Fortuna Düsseldorf - Köln",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Nürnberg - Hertha Berlin",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "West Ham - Chelsea",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Valladolid - Real Sociedad",
+        "league": "İspanya La Liga",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Venezia - Genoa",
+        "league": "İtalya Serie A",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Kepez Bld. - Afyonspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Bochum - Holstein Kiel",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Heidenheim - Freiburg",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Union Berlin - Hoffenheim",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Werder Bremen - Bayern Münih",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "İnegölspor - İskenderunspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Aston Villa - Wolverhampton",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Fulham - Newcastle",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Leicester City - Everton",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Liverpool - Bournemouth",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Southampton - Ipswich Town",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Tottenham - Brentford",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Konyaspor - Sivasspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "Bein Sports 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "17:15",
+        "teams": "Osasuna - Las Palmas",
+        "league": "İspanya La Liga",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Lille - Strasbourg",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Juventus - Napoli",
+        "league": "İtalya Serie A",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Bucaspor - Diyarbekirspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Balıkesirspor - Kelkit Bld.",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Crystal Palace - Manchester Utd",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Eintracht Frankfurt - Monchengladbach",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Valencia - Girona",
+        "league": "İspanya La Liga",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Glasgow Rangers - Dundee United",
+        "league": "İskoçya Kupasi",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Fenerbahçe - Galatasaray",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Rennes - Lens",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Aris - Olimpiakos",
+        "league": "Yunanistan Süper Ligi",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Guimaraes - Porto",
+        "league": "Portekiz Liga NOS",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Al Hilal - Al Ittihad",
+        "league": "Suudi Arabistan Pro Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "21:30",
+        "teams": "Kaiserslautern - Hamburg",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Lecce - Parma",
+        "league": "İtalya Serie A",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Reims - PSG",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/21",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Real Madrid - Espanyol",
+        "league": "İspanya La Liga",
+        "date": "2024/09/21",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "13:30",
+        "teams": "Fiorentina - Lazio",
+        "league": "İtalya Serie A",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Trabzonspor - Galatasaray",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Ankara BB - Beşiktaş",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Ünye 1957 - Fenerbahçe",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Elversberg - Ulm",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Magdeburg - Karlsruhe",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Jahn Regensburg - Preussen Münster",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Getafe - Leganes",
+        "league": "İspanya La Liga",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "15:30",
+        "teams": "Vanspor - Elazığspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Brighton - Nottingham Forest",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Monza - Bologna",
+        "league": "İtalya Serie A",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Serik Bld. - Giresunspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Monaco - Le Havre",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Anadolu Üni. - Silifke Bld.",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Kırıkkalespor - Kahramanmaraş",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Bayer Leverkusen - Wolfsburg",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Tuzlaspor - Altay",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Ergene Velimeşe - Bursaspor",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Denizlispor - Polatlı Bld.",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Beykoz İshaklı Spor - Uşakspor",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Ayvalıkgücü Bld. - Alanya Kestel",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "TFF Youtube"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Ç.Rizespor - Samsunspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Kasımpaşa - Antalyaspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Bein Sports 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Celtic - Falkirk",
+        "league": "İskoçya Kupasi",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "17:15",
+        "teams": "Athletic Bilbao - Celta Vigo",
+        "league": "İspanya La Liga",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Angers - Nantes",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Brest - Toulouse",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Montpellier - Auxerre",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "Manchester City - Arsenal",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "Stuttgart - B.Dortmund",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Roma - Udinese",
+        "league": "İtalya Serie A",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "24 Erzincanspor - Adana 1954",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Mersin İY - Erbaaspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Karşıyaka - Elazığ Karakoçan",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Villarreal - Barcelona",
+        "league": "İspanya La Liga",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Adana Demirspor - Alanyaspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Bein Sports 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Beşiktaş - Eyüpspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/22",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:30",
+        "teams": "St.Pauli - Leipzig",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Inter - Milan",
+        "league": "İtalya Serie A",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Lyon - Marsilya",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/22",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Rayo Vallecano - Atletico Madrid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:30",
+        "teams": "Sporting Lisbon - AVS",
+        "league": "Portekiz Liga NOS",
+        "date": "2024/09/22",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Gaziantep FK - Trabzonspor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/23",
+        "channels": [
+            "Bein Sports 1",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Göztepe - Kayserispor",
+        "league": "Trendyol Süper Lig",
+        "date": "2024/09/23",
+        "channels": [
+            "Bein Sports 2",
+            "beIN Sports Tod TV"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Atalanta - Como",
+        "league": "İtalya Serie A",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Real Betis - Mallorca",
+        "league": "İspanya La Liga",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:15",
+        "teams": "Boavista - Benfica",
+        "league": "Portekiz Liga NOS",
+        "date": "2024/09/23",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Sevilla - Valladolid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/24",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Valencia - Osasuna",
+        "league": "İspanya La Liga",
+        "date": "2024/09/24",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Real Madrid - Alaves",
+        "league": "İspanya La Liga",
+        "date": "2024/09/24",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Beşiktaş - Ç.Rizespor",
+        "league": "TFF Elit U19 Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "Beşiktaş Youtube"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "AZ Alkmaar - Elfsborg",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Bodo Glimt - Porto",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Girona - Rayo Vallecano",
+        "league": "İspanya La Liga",
+        "date": "2024/09/25",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Anderlecht - Ferencvaros",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Dinamo Kiev - Lazio",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Galatasaray - PAOK",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Ludogorets - Slavia Prag",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Manchester Utd - Twente",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Midtjylland - Hoffenheim",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Nice - Real Sociedad",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/25",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Barcelona - Getafe",
+        "league": "İspanya La Liga",
+        "date": "2024/09/25",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Fenerbahçe - St.Gilloise",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "19:45",
+        "teams": "Malmö - Rangers",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Espanyol - Villarreal",
+        "league": "İspanya La Liga",
+        "date": "2024/09/26",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Las Palmas - Real Betis",
+        "league": "İspanya La Liga",
+        "date": "2024/09/26",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Ajax - Beşiktaş",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Roma - Athletic Bilbao",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Braga - Maccabi Tel Aviv",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "FCSB - RFS",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Eintracht Frankfurt - Viktoria Plzen",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Lyon - Olympiakos",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Tottenham - Karabağ",
+        "league": "UEFA Avrupa Ligi",
+        "date": "2024/09/26",
+        "channels": [
+            "tabii Spor"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Celta Vigo - Atletico Madrid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/26",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Greuther Fürth - Fortuna Düsseldorf",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/27",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Ulm - Braunschweig",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/27",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Auxerre - Brest",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/27",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "21:30",
+        "teams": "B.Dortmund - Bochum",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/27",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Milan - Lecce",
+        "league": "İtalya Serie A",
+        "date": "2024/09/27",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "PSG - Rennes",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/27",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Valladolid - Mallorca",
+        "league": "İspanya La Liga",
+        "date": "2024/09/27",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Fenerbahçe - Adana Demirspor",
+        "league": "TFF Elit U19 Ligi",
+        "date": "2024/09/28",
+        "channels": [
+            "Fenerbahçe Futbol Akademi Youtube"
+        ]
+    },
+    {
+        "time": "12:00",
+        "teams": "Galatasaray - Malatyaspor",
+        "league": "TFF Elit U19 Ligi",
+        "date": "2024/09/28",
+        "channels": [
+            "Galatasaray Youtube"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Darmstadt 98 - Magdeburg",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Hamburg - Paderborn",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Jahn Regensburg - Kaiserslautern",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Newcastle - Manchester City",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Getafe - Alaves",
+        "league": "İspanya La Liga",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Udinese - Inter",
+        "league": "İtalya Serie A",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Sarıyer - Kırklarelispor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Monchengladbach - Union Berlin",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Freiburg - St.Pauli",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Mainz - Heidenheim",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Leipzig - Augsburg",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Wolfsburg - Stuttgart",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Arsenal - Leicester City",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Brentford - West Ham",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Chelsea - Brighton",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Everton - Crystal Palace",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:00",
+        "teams": "Nottingham Forest - Fulham",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:15",
+        "teams": "Rayo Vallecano - Leganes",
+        "league": "İspanya La Liga",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Lens - Nice",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Genoa - Juventus",
+        "league": "İtalya Serie A",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Menemenspor - Vanspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Wolverhampton - Liverpool",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Bayern Münih - Bayer Leverkusen",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Real Sociedad - Valencia",
+        "league": "İspanya La Liga",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "20:00",
+        "teams": "Le Havre - Lille",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "21:30",
+        "teams": "Preussen Münster - Schalke 04",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Bologna - Atalanta",
+        "league": "İtalya Serie A",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Monaco - Montpellier",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/28",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Osasuna - Barcelona",
+        "league": "İspanya La Liga",
+        "date": "2024/09/28",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "13:30",
+        "teams": "Torino - Lazio",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Galatasaray - Bornova FK",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/29",
+        "channels": [
+            "GS TV"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Fenerbahçe - Trabzonspor",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/29",
+        "channels": [
+            "FB TV"
+        ]
+    },
+    {
+        "time": "14:00",
+        "teams": "Beşiktaş - Fatih Karagümrük",
+        "league": "Turkcell Kadınlar Futbol Ligi",
+        "date": "2024/09/29",
+        "channels": [
+            "Beşiktaş Youtube"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Köln - Karlsruhe",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Hannover 96 - Nürnberg",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "14:30",
+        "teams": "Hertha Berlin - Elversberg",
+        "league": "Almanya Bundesliga 2",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Artvin Hopa - Karşıyaka",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "15:00",
+        "teams": "Celta Vigo - Girona",
+        "league": "İspanya La Liga",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "15:30",
+        "teams": "İskenderunspor - Batman Petrol",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "15:30",
+        "teams": "Serik Bld. - Bucaspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "15:30",
+        "teams": "K.Erciyesspor - Denizlispor",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Ipswich Town - Aston Villa",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Roma - Venezia",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Como - Verona",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "İnegölspor - Kepez Bld.",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Altınordu - 24 Erzincanspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Silivrispor - Balıkesirspor",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "16:00",
+        "teams": "Toulouse - Lyon",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "16:30",
+        "teams": "Holstein Kiel - Eintracht Frankfurt",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "17:15",
+        "teams": "Athletic Bilbao - Sevilla",
+        "league": "İspanya La Liga",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Angers - Reims",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:00",
+        "teams": "Nantes - St. Etienne",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "Manchester Utd - Tottenham",
+        "league": "İngiltere Premier Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "18:30",
+        "teams": "Hoffenheim - Werder Bremen",
+        "league": "Almanya Bundesliga",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Empoli - Fiorentina",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Altay - Fethiyespor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Afyonspor - Ispartaspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Giresunspor - Elazığspor",
+        "league": "TFF 2. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:00",
+        "teams": "Bursaspor - Muşspor",
+        "league": "TFF 3. Lig",
+        "date": "2024/09/29",
+        "channels": [
+            "Yayın Yok"
+        ]
+    },
+    {
+        "time": "19:30",
+        "teams": "Real Betis - Espanyol",
+        "league": "İspanya La Liga",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Napoli - Monza",
+        "league": "İtalya Serie A",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport 2"
+        ]
+    },
+    {
+        "time": "21:45",
+        "teams": "Strasbourg - Marsilya",
+        "league": "Fransa Ligue 1",
+        "date": "2024/09/29",
+        "channels": [
+            "beIN Sports Tod TV",
+            "Bein Sports beIN Connect"
+        ]
+    },
+    {
+        "time": "22:00",
+        "teams": "Atletico Madrid - Real Madrid",
+        "league": "İspanya La Liga",
+        "date": "2024/09/29",
+        "channels": [
+            "S Sport Plus",
+            "S Sport"
+        ]
+    }
+]

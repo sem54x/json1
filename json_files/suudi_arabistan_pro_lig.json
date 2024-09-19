@@ -1,0 +1,29 @@
+[
+    {
+        "time": "18:50",
+        "teams": "Al Ahli - Damac",
+        "league": "Suudi Arabistan Pro Lig",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Al Ettifaq - Al Nassr",
+        "league": "Suudi Arabistan Pro Lig",
+        "date": "2024/09/20",
+        "channels": [
+            "S Sport Plus"
+        ]
+    },
+    {
+        "time": "21:00",
+        "teams": "Al Hilal - Al Ittihad",
+        "league": "Suudi Arabistan Pro Lig",
+        "date": "2024/09/21",
+        "channels": [
+            "Yayın Yok"
+        ]
+    }
+]
